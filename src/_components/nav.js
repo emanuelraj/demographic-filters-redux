@@ -68,7 +68,7 @@ class Navigation extends React.Component {
                 anchor={anchor}
             >
                 <List component="nav">
-                    <ListItem button component='a' href="/census">
+                    <ListItem button component='a' href="/">
                         <ListItemIcon>
                             <HomeIcon />
                         </ListItemIcon>

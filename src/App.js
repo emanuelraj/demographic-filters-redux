@@ -12,7 +12,7 @@ class App extends Component {
         <Router history={history}>
           <div>
             <Switch>
-              <Route exact path='/census' component={Census} />
+              <Route exact path='/' component={Census} />
             </Switch>
           </div>
         </Router>
